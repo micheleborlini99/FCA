@@ -1,0 +1,9 @@
+x = 0
+y = 0
+z = 0
+controllo = 0
+t_ultima_presa = 0
+secxpezzo = 0
+Dimensione_cassone = 0
+CONTA_PEZZO = 0
+sec = 0 
